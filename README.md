@@ -1,4 +1,4 @@
-# SQL_IPL_Project
+# SQL_IPL
 
 IPL is a well famous club cricket tournament, The brainchild of the Board of Control for Cricket in India (BCCI), the IPL has developed into the most lucrative and most popular outlet for the game of cricket which is watched from globally. It is also known as Indian Premier League. In this project I will be working with IPL data set. Where it contains the data from 2008-2020.
 
